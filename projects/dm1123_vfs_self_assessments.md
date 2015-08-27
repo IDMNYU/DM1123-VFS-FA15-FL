@@ -3,7 +3,7 @@
 ![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    Frank LaRocca • deangela.duff@nyu.edu • Fall 2015 
+    Frank LaRocca • fl47@nyu.edu • Fall 2015 
     Tuesdays & Thursdays • 4:30-6:20PM • 2MTC MAGNET 817 • 3 credit hrs
 
 ---
@@ -13,7 +13,7 @@
 
 #### MIDTERM SELF ASSESSMENT  
 
-Email your midterm self assessment as a pdf to deangela.duff@nyu.edu. Do NOT put self assessments on basecamp, a public forum.
+Email your midterm self assessment as a pdf to fl47@nyu.edu. Do NOT put self assessments on basecamp, a public forum.
 
 Critically analyze/evaluate your visual foundation process and how it is has changed over the course of the semester. 
 * What are you learning? 
@@ -24,7 +24,7 @@ Critically analyze/evaluate your visual foundation process and how it is has cha
 
 #### FINAL SELF ASSESSMENT   
 
-Email your final self assessment as a pdf to deangela.duff@nyu.edu. Do NOT put self assessments on basecamp, a public forum.
+Email your final self assessment as a pdf to fl47@nyu.edu. Do NOT put self assessments on basecamp, a public forum.
 
 **Of Self**
 * How has your visual eye changed, since beginning this course? Evaluate your increased awareness and understanding of visual foundation principles, and your specific use of components (color, typography, image), composition, and concept. 

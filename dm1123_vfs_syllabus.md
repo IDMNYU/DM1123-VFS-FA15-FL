@@ -11,7 +11,7 @@
     Prerequisite: None
    
    
-###Github Repository: http://github.com/IDMNYU/DM1123-VFS-FA14
+###Github Repository: http://github.com/IDMNYU/DM1123-VFS-FA15-FL
 
 ####Course Management Site
 * http://basecamp.com | http://polishedsolid.basecamphq.com | http://vfs.polishedsolid.com
