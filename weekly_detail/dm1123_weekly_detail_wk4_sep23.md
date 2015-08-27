@@ -3,8 +3,8 @@
 ![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture &amp; Society Department
 
-    De Angela L. Duff • Fall 2014 • 3 credit hrs
-    Tuesdays & Thursdays • 4:30-6:20PM • Room: 2MTC MAGNET 811 
+    Frank LaRocca • Fall 2015 • 3 credit hrs
+    Tuesdays & Thursdays • 4:30-6:20PM • Room: 2MTC MAGNET 817 
 
 ---
 
@@ -27,7 +27,7 @@
   <td valign="top" width="4%">class</td>
   <td valign="top" width="48%"><strong>Components: Composition &amp; Concept</strong>
   <ul>
-  <li><strong><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i></strong>
+  <li><strong><i>Note: Sep 22 - Last day to drop Fall 2015 classes and not receive a grade of "W"</i></strong>
   <li>Respond to selected tickets to leave</li>
 
   <li>Discuss homework for next class</li>
