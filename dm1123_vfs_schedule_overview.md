@@ -31,8 +31,8 @@
     </tr>
     <tr>
         <td>4</td>
-        <td valign="top">Sep 22<br><strong>Screening: Type</strong><br><strong>Components: Iconography</strong></td>
-        <td valign="top">Sep 24<br><strong>Components: Color</strong></td>
+        <td valign="top">Sep 22<br><strong>Screening: Type</strong></td>
+        <td valign="top">Sep 24<br><strong>Components: Iconography & Color</strong></td>
     </tr>
     <tr>
         <td>5</td>
