@@ -10,7 +10,9 @@
 
     Prerequisite: None
    
-   
+
+## Note: This will be in draft form until we meet on the first day of class. 
+
 ###Github Repository: http://github.com/IDMNYU/DM1123-VFS-FA15-FL
 
 ####Course Management Site
@@ -105,7 +107,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 ##### Quantitative Grading Overview
 
-* 15% class exercises and tickets to leave
+* 15% class exercises
 * 15% homework assignments
 * 10% midterm (final logo)
 * 10% final interface 
@@ -117,7 +119,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * 2.5% logo show and tell
 * 2.5% creator show and tell
 * 2.5% midterm (final logo) self assessment and rubric
-* 2.5% letter to next cohort, final self assessment and rubric
+* 2.5% Final self assessment and rubric
 
 
 ##### Qualitative Grading Overview
@@ -207,7 +209,6 @@ See appendices for all of the following:
 * [Reading Responses] (projects/dm1123_vfs_reading_responses.md)
 * [Self Assessments and Letter to Next Cohort] (projects/dm1123_vfs_self_assessments.md)
 * [Show and Tells] (projects/dm1123_vfs_show_and_tells.md)
-* [Tickets to Leave] (projects/dm1123_vfs_tickets_to_leave.md)
 
 
 ### [SCHEDULE OVERVIEW GRID] (dm1123_vfs_schedule_overview.md)

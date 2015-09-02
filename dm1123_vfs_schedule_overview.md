@@ -17,7 +17,7 @@
     <tr>
         <td>1</td>
         <td>Sep 1<br></td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk1_sep4.md">Sep 3<br><strong>Course and Student Introductions<br>Overview of Course</strong></a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk1_sep3.md">Sep 3<br><strong>Course and Student Introductions<br>Overview of Course</strong></a></td>
     </tr>
     <tr>
         <td>2</td>
@@ -26,7 +26,7 @@
     </tr>
     <tr>
         <td>3</td>
-        <td valign="top">Sep 15<br><i>Last day to drop Fall 2015 classes and not receive a grade of "W"</i><br><Br><strong>Adobe Illustrator Demo</strong><br><strong>Components: Heirarchy</strong><br></td>
+        <td valign="top">Sep 15<br><strong>Components: Heirarchy</strong><br><br><i>Last day to drop Fall 2015 classes and not receive a grade of "W"</i></td>
         <td valign="top">Sept 17<br><strong>Components: Image</strong></td>
     </tr>
     <tr>

@@ -113,9 +113,3 @@ Of The Course
 * Feedback re: required books
   * Graphic Design: The New Basics
   * Type On Screen
-
-#### Letter to Next Cohort
-
-*Email your letter as a pdf to fl47@nyu.edu. Do NOT put letters on basecamp, a public forum.*
-
-Write a letter to the next class giving them advice on how to reach their learning goals and get value out of this course.
