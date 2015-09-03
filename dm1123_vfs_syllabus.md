@@ -207,7 +207,7 @@ See appendices for all of the following:
 
 #### Assignments
 * [Reading Responses] (projects/dm1123_vfs_reading_responses.md)
-* [Self Assessments and Letter to Next Cohort] (projects/dm1123_vfs_self_assessments.md)
+* [Self Assessments] (projects/dm1123_vfs_self_assessments.md)
 * [Show and Tells] (projects/dm1123_vfs_show_and_tells.md)
 
 
