@@ -12,4 +12,8 @@
 * [Project: Physical Application]()
 * [Project: Interface]()
 * [Reading Responses](projects/dm1123_vfs_reading_responses.md)
+* [Midterm Self Assessment]()
+* [End of Semester Deliverables]()
+* [IDM Coursework Documentation]()
+* [Recommended Resources](dm1123_vfs_recommended_resources.md)
 
