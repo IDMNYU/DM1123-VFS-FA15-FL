@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Schedule
+* [Schedule](dm1123_vfs_schedule_overview.md)
 
