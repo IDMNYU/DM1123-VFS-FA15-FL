@@ -7,20 +7,19 @@
 
 * **Choose 3 different words that will be the basis for typographic compositions**
     * The word's meaning should lend itself to a visual concept or physical process
-    * Examples include: transition, disruption, compression, repetition, expansion, migration
+    * Example words include: transition, disruption, compression, repetition, expansion, migration, elimination
 
-* **List the typeface’s family (Consult http://thinkingwithtype.com):**
-  * serif
-  * sans serif, 
-  * slab serif, 
-  * script, 
-  * decorative or display
+* **Using the printed template provided, sketch 10 concepts for each word (total of 30 sketches)**
+  * Experiments with the various composition concepts mentioned in class and in the readings
+  * Compositions should express the meaning of the word
+  * Use only one word per comp
 
-* **Try to find out the name of your typeface, as well as the type designer if you can**
-  * Use either of the following to do so: 
-    * Fount - http://fount.artequalswork.com
-    * What the Font - http://new.myfonts.com/WhatTheFont/
-    * Fonts in Use - http://fontsinuse.com/
+* **Take the 3 strongest sketches for each word, and develop them as compositions in Illustrator (total of 9 comps)**
+  * After translating your sketch to the computer, see if you can refine it further to make the composition more dynamic, as well as enhance its relation to the word's meaning 
+  * Use Futura as the typeface (or similar geometric sans serif, if you don't have access to Futura)
 
-* **Discuss why the typeface is one of your favorites**
+* **Come to Tuesday's class with your hand sketches and printed versions of the Illustrator comps**
+    * We will pin them up for presentation and critique 
+
+
 
