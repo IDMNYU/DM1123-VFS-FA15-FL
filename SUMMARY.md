@@ -15,6 +15,6 @@
 * [Midterm Self Assessment]()
 * [Exercise: Typefaces](class_exercises/exercise_typefaces.md)
 * [End of Semester Deliverables]()
-* [IDM Coursework Documentation]()
+* [IDM Coursework Documentation](projects/idm_coursework_documentation.md)
 * [Recommended Resources](dm1123_vfs_recommended_resources.md)
 
