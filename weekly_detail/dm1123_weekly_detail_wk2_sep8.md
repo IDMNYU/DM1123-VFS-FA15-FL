@@ -56,7 +56,7 @@
         <li>Continuity</li>
       </ul>
     </li>
-    <li><a href="projects/studio_composition.md">Studio Exercise: Type Composition</a></li>
+    <li><a href="../projects/studio_composition.md">Studio Exercise: Type Composition</a></li>
   </ul>
 
 </td>
