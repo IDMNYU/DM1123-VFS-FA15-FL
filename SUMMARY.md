@@ -8,13 +8,10 @@
 * [Creator Show and Tells](projects/creator_show_and_tells.md)
 * [Logo Show and Tells](projects/logo_show_and_tells.md)
 * [Groups](projects/dm1123_vfs_groups.md)
-* [Project: Logo]()
-* [Project: Physical Application]()
-* [Project: Interface]()
+* Project: Logo
 * [Reading Responses](projects/dm1123_vfs_reading_responses.md)
-* [Midterm Self Assessment]()
 * [Exercise: Typefaces](class_exercises/exercise_typefaces.md)
-* [End of Semester Deliverables]()
 * [IDM Coursework Documentation](projects/idm_coursework_documentation.md)
 * [Recommended Resources](dm1123_vfs_recommended_resources.md)
+* Studio Exercise: Type Compositions
 
