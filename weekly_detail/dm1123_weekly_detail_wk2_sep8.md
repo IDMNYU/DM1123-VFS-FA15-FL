@@ -37,7 +37,7 @@
       </ul>
     </li>
     <li>Demo: Adobe Illustrator</li>
-    <li><a href="../class_exercises/exercise_typefaces.md" target="_blank">Exercise: Typefaces</a></li>
+    <li><a href="../class_exercises/exercise_typefaces.md" target="_blank">Class Exercise: Typefaces</a></li>
   </ul>
 </td>
 <td valign="top">
