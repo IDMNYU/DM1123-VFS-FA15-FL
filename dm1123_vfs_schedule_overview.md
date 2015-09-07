@@ -2,8 +2,6 @@
 ##### Fall 2015 • Frank LaRocca • Tuesdays & Thursdays • 4:30-6:20PM • 2MTC MAGNET 817 
 
 ---
-# SCHEDULE OVERVIEW (THIS IS A DRAFT!!!)
-## This will be in draft form until we meet on the first day of class.
 
 *All dates and assignments are subject to change at the discretion of the professor! Gitbook and slack are the official sources for all dates and assignments; the printed syllabus is not. The printed syllabus is a general overview / guideline.* 
 
