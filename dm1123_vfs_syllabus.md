@@ -11,8 +11,6 @@
     Prerequisite: None
    
 
-## Note: This will be in draft form until we meet on the first day of class. 
-
 ###Github Repository: http://github.com/IDMNYU/DM1123-VFS-FA15-FL
 
 ####Course Management Site
