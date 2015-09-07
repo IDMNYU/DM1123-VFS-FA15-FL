@@ -6,11 +6,5 @@
    * [Week 1 Detail - Sep 3](weekly_detail/dm1123_weekly_detail_wk1_sep3.md)
    * [Week 2 Detail - Sep 8](weekly_detail/dm1123_weekly_detail_wk2_sep8.md)
 * [Creator Show and Tells](dm1123_vfs_show_and_tells.md)
-* Logo Show and Tells
-* Groups
-* Project: Logo
-* Project: Physical Application
-* Project: Interface
-* Reading Responses
-* Recommended Resources
+* [Logo Show and Tells](projects/logo_show_and_tells.md)
 
