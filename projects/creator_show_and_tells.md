@@ -15,18 +15,18 @@
 
 Subject | Team | Date
 --- | --- | ---
-Aleksander Rodchenko (composition & photography) | | Sep
-Paul Rand (identities / composition) |  | Sep
-Josef Muller-Brockman (composition / grid) | | Sep
-Milton Glaser (illustration / posters) |  | Sep
-Massimo Vignelli (typography / design standards) | | Sep
-Barbara Krueger (type & image) |  |  Sep
-Peter Saville (music / punk aesthetic) |  | Sep
-Chip Kidd (book jackets)  |  | Sep
-Tibor Kalman (image / concept) | | Sep
-David Carson (grunge aesthetic) |  | Oct 
-Paula Scher (type & image) |  | Oct 
-Stefan Sagmeister (type & image) |  | Oct 
-Nicholas Felton (data visualization) |  | Oct
+Aleksander Rodchenko (composition & photography) | | Sep 15
+Paul Rand (identities / composition) |  | Sep 15
+Josef Muller-Brockman (composition / grid) | | Sep 17
+Milton Glaser (illustration / posters) |  | Sep 17
+Massimo Vignelli (typography / design standards) | | Sep 22
+Barbara Krueger (type & image) |  |  Sep 22
+Peter Saville (music / punk aesthetic) |  | Sep 24
+Chip Kidd (book jackets)  |  | Sep 24
+Tibor Kalman (image / concept) | | Oct 6
+David Carson (grunge aesthetic) |  | Oct 6 
+Paula Scher (type & image) |  | Oct 20
+Stefan Sagmeister (type & image) |  | Oct 20
+Nicholas Felton (data visualization) |  | Oct 22
 
 
