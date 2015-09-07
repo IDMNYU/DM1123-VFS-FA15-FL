@@ -11,7 +11,8 @@
 * Project: Logo
 * [Reading Responses](projects/dm1123_vfs_reading_responses.md)
 * [Exercise: Typefaces](class_exercises/exercise_typefaces.md)
+* [Exercise: Type Compositions](projects/studio_compositions.md)
 * [IDM Coursework Documentation](projects/idm_coursework_documentation.md)
 * [Recommended Resources](dm1123_vfs_recommended_resources.md)
-* Studio Exercise: Type Compositions
+
 
