@@ -3,9 +3,11 @@
 
 ---
 
-## Studio Exercise: Typefaces
+## Studio Exercise: Type Compositions
 
-* **Post to wordpress, your favorite typeface used within an image**
+* **Choose 3 different words that will be the basis for typographic compositions**
+    * The word's meaning should lend itself to a visual concept or physical process
+    * Examples include: transition, disruption, compression, repetition, expansion, migration
 
 * **List the typeface’s family (Consult http://thinkingwithtype.com):**
   * serif
