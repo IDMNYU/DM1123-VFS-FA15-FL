@@ -9,4 +9,7 @@
 * [Logo Show and Tells](projects/logo_show_and_tells.md)
 * [Groups](projects/dm1123_vfs_groups.md)
 * [Project: Logo]()
+* [Project: Physical Application]()
+* [Project: Interface]()
+* [Reading Responses](projects/dm1123_vfs_reading_responses.md)
 
