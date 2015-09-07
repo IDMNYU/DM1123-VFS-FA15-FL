@@ -21,7 +21,7 @@
 <td valign="top">
   <strong>COMPONENTS: Type</strong><br>
   <ul>
-    <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tell</a> due: Aleksander Rodchenko</li>
+    <li>Assign creator show and tells</li>
     <li>BxMC URLs Rollcall</li>
     <li>Concepts:
       <ul>
