@@ -37,7 +37,7 @@
       </ul>
     </li>
     <li>Demo: Adobe Illustrator</li>
-    <li><a href="../class_exercises/exercise_typefaces.md" target="_blank">Class exercise: Typefaces</a></li>
+    <li><a href="../class_exercises/exercise_typefaces.md" target="_blank">Exercise: Typefaces</a></li>
   </ul>
 </td>
 <td valign="top">
@@ -55,7 +55,7 @@
         <li>Continuity</li>
       </ul>
     </li>
-    <li><a href="#">Studio Exercise: Composition</a></li>
+    <li><a href="#">Studio Exercise: Type Composition</a></li>
   </ul>
 
 </td>
@@ -64,8 +64,12 @@
 <!-- reading -->
 <tr>
   <td>read</td>
-  <td valign="top"><strong>Catch up on reading if behind or<br>Review reading</strong></td>
-  <td valign="top"></td>
+  <td valign="top"><strong>Graphic Design: The New Basics</strong><br>
+  <li>Point, Line, Plane</li>
+  <li>Rhythm and Balance</li>
+  <li>Scale</li>
+  </td>
+  <td valign="top">Catch up on reading if behind.</td>
 </tr>
 
 <!-- do -->
