@@ -29,10 +29,10 @@
         <li>Letter anatomy</li>
         <li>Type classifications</li>
         <li>Caps &amp; small caps</li>
-        <li>Mixing typefaces</li>
         <li>Kerning &amp; tracking</li>
         <li>Leading / line spacing / line height</li>
         <li>Alignment</li>
+        <li>Mixing typefaces</li>
         <li>Font creation</li>
       </ul>
     </li>
@@ -50,7 +50,7 @@
         <li>Scale</li>
         <li>Rhythm and balance</li>
         <li>Symmetry</li>
-        <li>Asymetry</li>
+        <li>Asymmetry</li>
         <li>Similarity (groupings)</li>
         <li>Proximity</li>
         <li>Continuity</li>
