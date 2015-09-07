@@ -3,7 +3,7 @@
 
 ---
 
-### CREATOR Show & Tell Directions
+### Creator Show & Tell Directions
 * Pair up w/ 1 classmate
 * Select an artist, designer, or collective from the list below.
 * Specific show & tell due dates are outlined in the schedule at the end of the syllabus and on basecamp.
