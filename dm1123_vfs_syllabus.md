@@ -13,8 +13,7 @@
 
 ###Gitbook: http://laroccaf.gitbooks.io/visual-foundation-studio/content/
 
-####Course Management Site
-* http://basecamp.com | http://polishedsolid.basecamphq.com | http://vfs.polishedsolid.com
+####Course Management Site: http://basecamp.com
 
 
 ---
