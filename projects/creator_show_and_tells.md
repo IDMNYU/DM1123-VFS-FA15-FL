@@ -1,17 +1,7 @@
 # DM-UY 1123 Visual Foundation Studio
-
-
-
-    Frank LaRocca • fl47@nyu.edu • Fall 2015 
-    Tuesdays & Thursdays • 4:30-6:20PM • 2MTC MAGNET 817 • 3 credit hrs
+##### Fall 2015 • Frank LaRocca • Tuesdays & Thursdays • 4:30-6:20PM • 2MTC MAGNET 817 
 
 ---
-
-
-## SHOW & TELLS
-
-
-
 
 #### CREATOR SHOW & TELLS
 * Pair up w/ 1 classmate
