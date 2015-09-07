@@ -43,13 +43,14 @@
 <td valign="top">
   <strong>COMPONENTS: Composition</strong><br>
   <ul>
+    <li>Review typefaces exercise</li>
     <li>Demo: Adobe Illustrator Continued</li>
     <li>Concepts:
       <ul>
         <li>Scale</li>
         <li>Rhythm and balance</li>
         <li>Symmetry</li>
-        <li>Assymetry</li>
+        <li>Asymetry</li>
         <li>Similarity (groupings)</li>
         <li>Proximity</li>
         <li>Continuity</li>
