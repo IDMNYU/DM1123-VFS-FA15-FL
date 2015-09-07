@@ -3,7 +3,7 @@
 
 ---
 
-#### CREATOR SHOW & TELLS
+### CREATOR Show & Tell Directions
 * Pair up w/ 1 classmate
 * Select an artist, designer, or collective from the list below.
 * Specific show & tell due dates are outlined in the schedule at the end of the syllabus and on basecamp.
@@ -11,19 +11,22 @@
 * Each team member should bring in at least 3 or more digitized examples of the work of your chosen artist, designer, or collective for a total of at least 6 images.
 * Be familiar with a brief bio (or overview) and be prepared to CRITICALLY discuss your assigned artist, designer, or collective and their supporting work in an engaging presentation in front of the class. 
 
-**Artists, Designers & Collectives:**
-* Aleksander Rodchenko (composition & photography)
-* Paul Rand (identities / composition)
-* Josef Muller-Brockman (composition / grid)
-* Milton Glaser (illustration / posters)
-* Massimo Vignelli (typography / design standards)
-* Barbara Krueger (type & image)
-* Peter Saville (music / punk aesthetic)
-* Chip Kidd (book jackets) 
-* Tibor Kalman (image / concept)
-* David Carson (grunge aesthetic)
-* Paula Scher (type & image)
-* Stefan Sagmeister (type & image)
-* Nicholas Felton (data visualization)
+### Creator Show & Tell Assignments
+
+Subject | Team | Date
+--- | --- | ---
+Aleksander Rodchenko (composition & photography) | | Sep
+Paul Rand (identities / composition) |  | Sep
+Josef Muller-Brockman (composition / grid) | | Sep
+Milton Glaser (illustration / posters) |  | Sep
+Massimo Vignelli (typography / design standards) | | Sep
+Barbara Krueger (type & image) |  |  Sep
+Peter Saville (music / punk aesthetic) |  | Sep
+Chip Kidd (book jackets)  |  | Sep
+Tibor Kalman (image / concept) | | Sep
+David Carson (grunge aesthetic) |  | Oct 
+Paula Scher (type & image) |  | Oct 
+Stefan Sagmeister (type & image) |  | Oct 
+Nicholas Felton (data visualization) |  | Oct
 
 
