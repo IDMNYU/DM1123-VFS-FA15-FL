@@ -13,6 +13,7 @@
 * [Project: Interface]()
 * [Reading Responses](projects/dm1123_vfs_reading_responses.md)
 * [Midterm Self Assessment]()
+* [Exercise: Typefaces](class_exercises/exercise_typefaces.md)
 * [End of Semester Deliverables]()
 * [IDM Coursework Documentation]()
 * [Recommended Resources](dm1123_vfs_recommended_resources.md)
