@@ -5,7 +5,7 @@
 # IDM COURSEWORK DOCUMENTATION
 
 * Set up your class website using wordpress at http://sites.bxmc.poly.edu/~yourfirstnamelastname/vfs
-* Add your blog URL to slack in the VFS channel.
+* Add your blog URL to Basecamp on the IDM Coursework discussion thread.
 
 We would like all students to document their IDM coursework on sites.bxmc.poly.edu. We want you to archive your work on sites.bxmc.poly.edu because these are IDM servers. If your work is archived on your personal servers, there is a possibility that you would delete your archives after you graduate or even sooner.
 
