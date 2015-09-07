@@ -18,6 +18,7 @@
   * Use either of the following to do so: 
     * Fount - http://fount.artequalswork.com
     * What the Font - http://new.myfonts.com/WhatTheFont/
+    * Fonts in Use - http://fontsinuse.com/
 
 * **Discuss why the typeface is one of your favorites**
 
