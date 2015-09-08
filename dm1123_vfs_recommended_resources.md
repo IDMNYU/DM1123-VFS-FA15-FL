@@ -119,7 +119,7 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
 * **What Makes a Font Bad?**
   * Communication Arts: Know If a Font Sucks - http://www.commarts.com/columns/know-font-sucks
   * digitalrelativity.com: WHAT MAKES A BAD TYPEFACE, AND HOW TO FIX IT - http://digitalrelativity.com/fixing-bad-typeface
-  * #2 in this article, Good Font, Bad Font: 5 Ways To Tell The Gems From The Junk -nhttp://speckyboy.com/2013/11/14/good-font-bad-font-5-ways-tell-gems-junk
+  * No. 2 in this article, Good Font, Bad Font: 5 Ways To Tell The Gems From The Junk -nhttp://speckyboy.com/2013/11/14/good-font-bad-font-5-ways-tell-gems-junk
   * Examples of Bad Font Use: Avoid These Common Mistakes - http://www.brighthub.com/multimedia/publishing/articles/125993.aspx
   * 10 Iconic Fonts and Why You Should Never Use Them - http://www.webdesignerdepot.com/2011/02/10-iconic-fonts-and-why-you-should-never-use-them
   * 23 Really Bad Font - Choiceshttp://bonfx.com/23-really-bad-font-choices
