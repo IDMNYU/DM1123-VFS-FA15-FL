@@ -96,6 +96,7 @@
   * Here's more info about why the color shifts:
 http://www.dpbestflow.org/color/color-space-and-color-profiles
 
+
 * **Typography**
   * Thinking with Type – http://thinkingwithtype.com
   * Fount - http://fount.artequalswork.com
@@ -106,14 +107,19 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
   * Typolis – http://typolis.de/version1/engl/typolis.htm
   * Counterspace – http://www.counterspace.us/typography
 
+
 * **Type Foundries**
   * MyFonts – http://www.myfonts.com
   * Vllg – https://vllg.com/
   * Lineto – http://lineto.com/
+  * Hoefler & Co. – http://www.typography.com/
   * Typotheque – https://www.typotheque.com/
   * Klim – https://klim.co.nz/
+  * The Foundry – http://www.foundrytypes.co.uk/
+  * Colophon – http://www.colophon-foundry.org/
   * Émigre – http://emigre.com
   * House Industries – http://houseindustries.com
+  * And many more... http://type-foundries-archive.com
 
 
 * **What Makes a Font Bad?**
