@@ -100,6 +100,7 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
 * **Typography**
   * Thinking with Type – http://thinkingwithtype.com
   * Fount - http://fount.artequalswork.com
+  * Typewolf – https://www.typewolf.com/
   * Mac OS application: Font Book 
   * Wordmark - http://wordmark.it
   * What the Font - https://www.myfonts.com/WhatTheFont/
