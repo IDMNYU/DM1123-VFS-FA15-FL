@@ -26,7 +26,7 @@ Chip Kidd (book jackets)  |  | Sep
 Tibor Kalman (image / concept) | | Oct 
 David Carson (grunge aesthetic) | Bella & Isabel | Oct 
 Paula Scher (type & image) | Jack & Yihan | Oct 
-Stefan Sagmeister (type & image) | Shu | Oct 
+Stefan Sagmeister (type & image) | Shu & Michelle | Oct 
 Nicholas Felton (data visualization) |  | Oct 
 
 
