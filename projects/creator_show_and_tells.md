@@ -22,7 +22,7 @@ Milton Glaser (illustration / posters) | Pooja & Katie | Sep
 Massimo Vignelli (typography / design standards) | Connor & Kimberly | Sep
 Barbara Krueger (type & image) | Vale & Mateo  |  Sep 
 Peter Saville (music / punk aesthetic) | Owen & Justin | Sep 
-Chip Kidd (book jackets)  |  | Sep 
+Chip Kidd (book jackets)  | Daniel | Sep 
 Tibor Kalman (image / concept) | | Oct 
 David Carson (grunge aesthetic) | Bella & Isabel | Oct 
 Paula Scher (type & image) | Jack & Yihan | Oct 
