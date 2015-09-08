@@ -208,5 +208,5 @@ See appendices for all of the following:
 * [Show and Tells] (projects/dm1123_vfs_show_and_tells.md)
 
 
-### [SCHEDULE OVERVIEW GRID] (dm1123_vfs_schedule_overview.md)
+### [SCHEDULE OVERVIEW GRID](dm1123_vfs_schedule_overview.md)
 See Appendix
