@@ -22,8 +22,8 @@
   <strong>COMPONENTS: Type</strong><br>
   <ul>
     <li>Course materials moved to GitBook</li>
-    <li>Assign creator show and tells</li>
     <li>BxMC URLs Rollcall</li>
+    <li>Assign creator show and tells</li>
     <li>Concepts:
       <ul>
         <li>Type vs. Typeface (family) vs. Font</li>
