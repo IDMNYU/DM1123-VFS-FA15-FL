@@ -108,9 +108,13 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
 
 * **Type Foundries**
   * MyFonts – http://www.myfonts.com
+  * Vllg – https://vllg.com/
+  * Lineto – http://lineto.com/
+  * Typotheque – https://www.typotheque.com/
+  * Klim – https://klim.co.nz/
   * Émigre – http://emigre.com
-  * T-26 fonts – http://t26.com
   * House Industries – http://houseindustries.com
+
 
 * **What Makes a Font Bad?**
   * Communication Arts: Know If a Font Sucks - http://www.commarts.com/columns/know-font-sucks
