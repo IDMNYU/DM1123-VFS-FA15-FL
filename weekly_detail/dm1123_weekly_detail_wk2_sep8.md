@@ -21,6 +21,7 @@
 <td valign="top">
   <strong>COMPONENTS: Type</strong><br>
   <ul>
+    <li>Course materials moved to GitBook</li>
     <li>Assign creator show and tells</li>
     <li>BxMC URLs Rollcall</li>
     <li>Concepts:
