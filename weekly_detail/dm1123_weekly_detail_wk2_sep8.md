@@ -45,7 +45,6 @@
   <strong>COMPONENTS: Composition</strong><br>
   <ul>
     <li>Review typefaces exercise</li>
-    <li>Demo: Adobe Illustrator Continued</li>
     <li>Concepts:
       <ul>
         <li>Scale</li>
@@ -57,6 +56,7 @@
         <li>Continuity</li>
       </ul>
     </li>
+    <li>Demo: Adobe Illustrator Continued</li>
     <li><a href="../projects/studio_composition.md">Studio Exercise: Type Compositions</a></li>
   </ul>
 
