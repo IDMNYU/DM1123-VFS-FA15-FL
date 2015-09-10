@@ -16,17 +16,17 @@
 Subject | Team | Date
 --- | --- | ---
 Aleksander Rodchenko (composition & photography) | | Sep 
-Paul Rand (identities / composition) | Orlando & Calvin | Sep 
-Josef Muller-Brockman (composition / grid) |Ryan & Jonathan | Sep 
-Milton Glaser (illustration / posters) | Pooja & Katie | Sep 
-Massimo Vignelli (typography / design standards) | Connor & Kimberly | Sep
-Barbara Krueger (type & image) | Vale & Mateo  |  Sep 
-Peter Saville (music / punk aesthetic) | Owen & Justin | Sep 
-Chip Kidd (book jackets)  | Daniel | Sep 
+Paul Rand (identities / composition) | Orlando & Calvin | Sep 15 
+Josef Muller-Brockman (composition / grid) |Ryan & Jonathan | Sep 17
+Milton Glaser (illustration / posters) | Pooja & Katie | Sep 22
+Massimo Vignelli (typography / design standards) | Connor & Kimberly | Sep 24
+Barbara Krueger (type & image) | Vale & Mateo  |  Oct 1
+Peter Saville (music / punk aesthetic) | Owen & Justin | Oct 6 
+Chip Kidd (book jackets)  | Daniel | Oct 15
 Tibor Kalman (image / concept) | | Oct 
-David Carson (grunge aesthetic) | Bella & Isabel | Oct 
-Paula Scher (type & image) | Jack & Yihan | Oct 
-Stefan Sagmeister (type & image) | Shu & Michelle | Oct 
+David Carson (grunge aesthetic) | Bella & Isabel | Oct 20
+Paula Scher (type & image) | Jack & Yihan | Oct 22 
+Stefan Sagmeister (type & image) | Shu & Michelle | Oct 29 
 Nicholas Felton (data visualization) |  | Oct 
 
 
