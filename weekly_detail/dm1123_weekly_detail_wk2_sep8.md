@@ -88,7 +88,7 @@
   <td valign="top">
     <ul>
    
-      <li><a href="#">Studio Exercise: Type Composition</a> as homework</li>
+      <li><a href="../projects/studio_composition.md">Studio Exercise: Type Composition</a> as homework</li>
     </ul>
   </td>
 </tr>
