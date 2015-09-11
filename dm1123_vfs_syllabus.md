@@ -203,9 +203,9 @@ See appendices for all of the following:
 * [Physical Application Project] (projects/dm1123_vfs_projects_pa.md)
 
 #### Assignments
-* [Reading Responses] (projects/dm1123_vfs_reading_responses.md)
-* [Self Assessments] (projects/dm1123_vfs_self_assessments.md)
-* [Show and Tells] (projects/dm1123_vfs_show_and_tells.md)
+* [Reading Responses](projects/dm1123_vfs_reading_responses.md)
+* Self Assessments
+* [Creator Show and Tells](projects/creator_show_and_tells.md)
 
 
 ### [SCHEDULE OVERVIEW GRID](dm1123_vfs_schedule_overview.md)
