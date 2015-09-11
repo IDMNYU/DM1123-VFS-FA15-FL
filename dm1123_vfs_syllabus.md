@@ -194,13 +194,13 @@ See Appendix
 All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname_vfs_fa14_assignmentname (i.e. dduff_vfs_fa14_logo1.pdf)
 
 See appendices for all of the following:
-* [IDM Coursework Documentation] (projects/dm1123_idm_coursework_documentation.md)
-* [End of Semester Deliverables] (projects/dm1123_vfs_end_of_semester_deliverables.md)
+* [IDM Coursework Documentation](projects/idm_coursework_documentation.md)
+* End of Semester Deliverables
 
 #### Projects
-* [Logo Project] (projects/dm1123_vfs_projects_logo.md)
-* [Interface Project] (projects/dm1123_vfs_projects_interface.md)
-* [Physical Application Project] (projects/dm1123_vfs_projects_pa.md)
+* Logo Project
+* Interface Project
+* Physical Application Project
 
 #### Assignments
 * [Reading Responses](projects/dm1123_vfs_reading_responses.md)
