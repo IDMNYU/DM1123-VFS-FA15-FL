@@ -15,4 +15,5 @@
 * [Exercise: Event Posters](projects/exercise_event_posters.md)
 * [IDM Coursework Documentation](projects/idm_coursework_documentation.md)
 * [Recommended Resources](dm1123_vfs_recommended_resources.md)
+* Week 3 Detail - Sep 15
 
