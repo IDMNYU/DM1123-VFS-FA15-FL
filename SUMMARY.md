@@ -14,5 +14,5 @@
 * [Exercise: Type Compositions](projects/studio_composition.md)
 * [IDM Coursework Documentation](projects/idm_coursework_documentation.md)
 * [Recommended Resources](dm1123_vfs_recommended_resources.md)
-* Exercise: Event Posters
+* [Exercise: Event Posters](projects/exercise_event_posters.md)
 
