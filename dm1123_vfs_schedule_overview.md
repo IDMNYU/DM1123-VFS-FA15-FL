@@ -24,8 +24,8 @@
     </tr>
     <tr>
         <td>3</td>
-        <td valign="top">Sep 15<br><strong>Components: Heirarchy</strong><br><br><i>Last day to drop Fall 2015 classes and not receive a grade of "W"</i></td>
-        <td valign="top">Sept 17<br><strong>Components: Image</strong></td>
+        <td valign="top">Sep 15<br><strong>Components: Image</strong><br><br><i>Last day to drop Fall 2015 classes and not receive a grade of "W"</i></td>
+        <td valign="top">Sept 17<br><strong>Components: Heirarchy</strong></td>
     </tr>
     <tr>
         <td>4</td>
