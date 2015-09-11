@@ -3,7 +3,7 @@
 
 ---
 
-## Studio Exercise: Hierarchy Studies
+## Studio Exercise: Event Poster
 
 In this exercise, you will create a series of composition studies that will act as mini-posters for an event of your choosing.
 
