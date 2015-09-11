@@ -17,10 +17,10 @@ In this exercise, you will create a series of composition studies that will act 
     * You can use an upcoming event at an actual institution (like MoMA or BAM), or it can be fictional
 
 
-* **Using the printed template provided, sketch 10 concepts for each word (total of 30 sketches)**
-  * Experiments with the various composition concepts mentioned in class and in the readings
-  * Compositions should express the meaning of the word
-  * Use only one word per comp
+* **Using the printed template provided, sketch 5 concepts for each word (total of 30 sketches)**
+  1. Using only spacing&mdash;all type must be the same font and size
+  2. Using spacing, scale, and type weight
+  3. Using all of the above, plus rotation/axis and an image
   * Use only one color, the black / gray of your pen or pencil (no colored pencils or markers)
 
 
