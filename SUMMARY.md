@@ -12,7 +12,7 @@
 * [Reading Responses](projects/dm1123_vfs_reading_responses.md)
 * [Exercise: Typefaces](class_exercises/exercise_typefaces.md)
 * [Exercise: Type Compositions](projects/studio_composition.md)
+* [Exercise: Event Posters](projects/exercise_event_posters.md)
 * [IDM Coursework Documentation](projects/idm_coursework_documentation.md)
 * [Recommended Resources](dm1123_vfs_recommended_resources.md)
-* [Exercise: Event Posters](projects/exercise_event_posters.md)
 
