@@ -10,7 +10,7 @@
 <td>Thursdays</td>
 </tr>
 <tr>
-  <td valign="top">1</td>
+  <td valign="top">3</td>
   <td valign="top" width="48%"><strong>Sep 15</strong></td>
   <td valign="top" width="48%"><strong>Sep 17</strong></td>
 </tr>
