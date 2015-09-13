@@ -121,6 +121,14 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
   * Émigre – http://emigre.com
   * House Industries – http://houseindustries.com
   * And many more... http://type-foundries-archive.com
+  
+
+* **Image Research**
+    * iStock – http://istockphoto.com
+    * Getty – http://gettyimages.com
+    * Stocksy – http://stocksy.com
+    * Flickr – http://flickr.com
+    * 500px – http://500px.com
 
 
 * **What Makes a Font Bad?**
