@@ -35,7 +35,7 @@
   <ul>
     <li>Show & Tell Due:
         <ul>
-            <li>Josef Muller-Brockman: Ryan & Jonathan</li>
+            <li>Massimo Vignelli: Connor & Kimberly</li>
         </ul>
     </li>
     <li>Ways of creating hierarchy:
