@@ -19,30 +19,19 @@
 <tr>
 <td valign="top">class</td>
 <td valign="top">
-  <strong>COMPONENTS: Image</strong><br>
+  <strong>SCREENING: Type</strong><br>
   <ul>
     <li>Show & Tell Due:
         <ul>
-            <li>Paul Rand: Orlando & Calvin</li>
+            <li>Milton Glaser: Pooja & Katie</li>
         </ul>
     </li>
-    <li>Critique: Type Compositions</li>
-    <li>Concepts:
-      <ul>
-        <li>Image research</li>
-        <li>Cropping / framing</li>
-        <li>Silhouetting</li>
-        <li>Margins / partial bleed / full bleed</li>
-        <li>Image processing</li>
-        <li>Collage</li>
-        <li>Type as image</li>
-      </ul>
-    </li>
-    <li>Photoshop Demo</li>
+    <li>Critique: Event Posters</li>
+    <li>Screening: Helvetica Documentary</li>
   </ul>
 </td>
 <td valign="top">
-  <strong>COMPONENTS: Heirarchy</strong><br>
+  <strong>COMPONENTS: Iconography & Color</strong><br>
   <ul>
     <li>Show & Tell Due:
         <ul>
