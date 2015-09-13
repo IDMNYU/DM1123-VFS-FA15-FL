@@ -38,18 +38,24 @@
             <li>Massimo Vignelli: Connor & Kimberly</li>
         </ul>
     </li>
-    <li>Ways of creating hierarchy:
+    <li>Iconography Concepts:
       <ul>
-        <li>Scale</li>
-        <li>Positioning</li>
-        <li>Rotation / Axis</li>
-        <li>Type differentiation</li>
-        <li>Spacing</li>
-        <li>Color / Value</li>
+        <li>Wordless communication</li>
+        <li>Uses of iconography</li>
+        <li>Fill vs. outline</li>
+        <li>Icon libraries</li>
+      </ul>
+    </li>
+    <li>Color Concepts:
+      <ul>
+        <li>Hue</li>
+        <li>Value</li>
+        <li>Primary, secondary, complementary</li>
+        <li>Palettes</li>
       </ul>
     </li>
     
-    <li><a href="../projects/studio_event_posters.md">Studio Exercise: Event Posters</a></li>
+    <li><a href="">Studio Exercise: Event Posters Cont'd</a></li>
   </ul>
 
 </td>
@@ -85,7 +91,7 @@
   <td valign="top">
     <ul>
    
-      <li><a href="../projects/studio_event_posters.md">Studio Exercise: Event Posters</a> as homework</li>
+      <li><a href="../projects/studio_event_posters.md">Studio Exercise: Event Posters Cont'd</a> as homework</li>
     </ul>
   </td>
 </tr>
