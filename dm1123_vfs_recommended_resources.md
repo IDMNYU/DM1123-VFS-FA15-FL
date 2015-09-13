@@ -127,6 +127,7 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
     * iStock – http://istockphoto.com
     * Getty – http://gettyimages.com
     * Stocksy – http://stocksy.com
+    * Shutterstock – http://shutterstock.com
     * Flickr – http://flickr.com
     * 500px – http://500px.com
 
