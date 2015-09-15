@@ -35,7 +35,6 @@
         <li>Margins / partial bleed / full bleed</li>
         <li>Image processing</li>
         <li>Collage</li>
-        <li>Type as image</li>
       </ul>
     </li>
     <li>Photoshop Demo</li>
