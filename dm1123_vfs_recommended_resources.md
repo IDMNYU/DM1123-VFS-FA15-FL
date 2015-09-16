@@ -135,7 +135,7 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
 * **Iconography**
     * Glyphicons – http://glyphicons.com/
     * Iconmonstr – http://iconmonstr.com/
-    * The Noun Project (beware of poor quality icons) – https://thenounproject.com/
+    * The Noun Project (lots of selection, but beware of poor quality icons) – https://thenounproject.com/
 
 
 * **What Makes a Font Bad?**
