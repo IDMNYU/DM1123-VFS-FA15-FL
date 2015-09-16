@@ -135,6 +135,7 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
 * **Iconography**
     * Glyphicons – http://glyphicons.com/
     * Iconmonstr – http://iconmonstr.com/
+    * AIGA Symbol Signs – http://www.aiga.org/symbol-signs/
     * The Noun Project (lots of selection, but beware of poor quality icons) – https://thenounproject.com/
 
 
