@@ -17,7 +17,7 @@ Subject | Team | Date
 --- | --- | ---
 Aleksander Rodchenko (composition & photography) | | Sep 
 Paul Rand (identities / composition) | Orlando & Calvin | Sep 15 
-Josef Muller-Brockman (composition / grid) |Ryan & Jonathan | Sep 17
+Josef Muller-Brockman (composition / grid) |Ryan & Jonatan | Sep 17
 Milton Glaser (illustration / posters) | Pooja & Katie | Sep 22
 Massimo Vignelli (typography / design standards) | Connor & Kimberly | Sep 24
 Barbara Krueger (type & image) | Vale & Mateo  |  Oct 1
