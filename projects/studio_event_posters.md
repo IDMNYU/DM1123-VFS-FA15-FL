@@ -29,7 +29,7 @@ In this exercise, you will create a series of composition studies that will act 
 
 
 * **Take the 2 strongest sketches for each variation, and develop them as compositions in Illustrator (total of 8 comps)**
-  * 1 comp per page, use the square Illustrator template on Basecamp
+  * 1 comp per page, use the [square format Illustrator template](assets/composition_template.ai)
   * You may choose a typeface, but use the same typeface across all the studies. The typeface should have some history to it, should have multiple weights in the family, and should be versatile enough to lend itself to multiple scales and uses (i.e. please avoid quirky display faces).
     * Suggestions include: Univers, Futura, Trade Gothic / Benton Sans, Gotham, Helvetica / Akzidenz Grotesk, Bodoni / Didot, or others mentioned in my type lecture or in the readings
   * Type color must be 100% black (no shades of gray)
