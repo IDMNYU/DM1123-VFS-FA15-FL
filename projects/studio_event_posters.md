@@ -23,15 +23,15 @@ In this exercise, you will create a series of composition studies that will act 
   1. Spacing only&mdash;all type must be the same font and size
   2. Spacing and type weight
   3. Spacing, type weight and scale
-  4. Spacing, type weight, scale, image, and rotation/axis
+  4. Spacing, type weight, scale, image, and rotation/axis (optional)
   
   You must use all of the content items above (except any optional ones).
 
 
 * **Take the 2 strongest sketches for each variation, and develop them as compositions in Illustrator (total of 8 comps)**
   * 1 comp per page, use the [square format Illustrator template](https://github.com/IDMNYU/DM1123-VFS-FA15-FL/blob/master/assets/composition_template.ai?raw=true)
-  * You may choose a typeface, but use the same typeface across all the studies. The typeface should have some history to it, should have multiple weights in the family, and should be versatile enough to lend itself to multiple scales and uses (i.e. please avoid quirky display faces).
-    * Suggestions include: Univers, Futura, Trade Gothic / Benton Sans, Gotham, Helvetica / Akzidenz Grotesk, Bodoni / Didot, or others mentioned in my type lecture or in the readings
+  * You may choose a typeface, but use the same typeface across all the studies. The typeface should have multiple weights in the family, and should be versatile enough to lend itself to multiple scales and uses (i.e. please avoid quirky display faces).
+    * Suggestions include: Univers, Futura, Trade Gothic / Benton Sans, Gotham, Helvetica / Akzidenz Grotesk, Bodoni / Didot, Rockwell, or others mentioned in my type lecture or in the readings
   * Type color must be 100% black (no shades of gray)
 
 
