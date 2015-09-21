@@ -15,7 +15,7 @@
 * [Exercise: Typefaces](class_exercises/exercise_typefaces.md)
 * [Exercise: Type Compositions](projects/studio_composition.md)
 * [Exercise: Event Posters](projects/studio_event_posters.md)
-* * [Exercise: Event Posters in Color](projects/studio_event_posters2.md)
+* [Exercise: Event Posters in Color](projects/studio_event_posters2.md)
 * [IDM Coursework Documentation](projects/idm_coursework_documentation.md)
 * [Recommended Resources](dm1123_vfs_recommended_resources.md)
 
