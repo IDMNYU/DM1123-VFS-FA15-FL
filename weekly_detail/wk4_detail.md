@@ -64,11 +64,8 @@
 <!-- reading -->
 <tr>
   <td>read</td>
-  <td valign="top"><strong>Graphic Design: The New Basics</strong><br>
-  <li>Figure / Ground</li>
-  <li>Heirarchy</li>
-  <li>Layers</li>
-  <li>Grid</li>
+  <td valign="top">Catch up on reading if behind.
+  
   </td>
   <td valign="top">Catch up on reading if behind.</td>
 </tr>
