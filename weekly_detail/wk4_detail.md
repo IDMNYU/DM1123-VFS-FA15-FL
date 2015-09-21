@@ -82,7 +82,7 @@
   <td valign="top">
     <ul>
    
-      <li><a href="#">Studio Exercise: Event Posters Cont'd</a> as homework</li>
+      <li><a href="../projects/studio_event_posters2.md">Studio Exercise: Event Posters Cont'd</a> as homework</li>
     </ul>
   </td>
 </tr>
