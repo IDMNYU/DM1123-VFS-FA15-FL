@@ -27,7 +27,6 @@
         </ul>
     </li>
     <li>Critique: Event Posters</li>
-    <li>Screening: Helvetica Documentary</li>
     <li>Assignment: <a href="../projects/studio_event_posters.md">Logo Show & Tells</a></li>
   </ul>
 </td>
