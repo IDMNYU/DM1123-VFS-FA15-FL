@@ -55,7 +55,7 @@
       </ul>
     </li>
     
-    <li><a href="#">Studio Exercise: Event Posters Cont'd</a></li>
+    <li><a href="../projects/studio_event_posters2.md">Studio Exercise: Event Posters Cont'd</a></li>
   </ul>
 
 </td>
