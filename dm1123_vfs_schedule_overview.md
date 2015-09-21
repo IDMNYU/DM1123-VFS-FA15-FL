@@ -29,8 +29,8 @@
     </tr>
     <tr>
         <td>4</td>
-        <td valign="top">Sep 22<br><strong>Hierarchy Crit</strong></td>
-        <td valign="top">Sep 24<br><strong>Components: Iconography & Color</strong></td>
+        <td valign="top"><a href="weekly_detail/wk4_detail.md">Sep 22<br><strong>Hierarchy Crit</strong></a></td>
+        <td valign="top"><a href="weekly_detail/wk4_detail.md">Sep 24<br><strong>Components: Iconography & Color</strong></a></td>
     </tr>
     <tr>
         <td>5</td>
