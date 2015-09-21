@@ -6,6 +6,7 @@
    * [Week 1 Detail - Sep 3](weekly_detail/dm1123_weekly_detail_wk1_sep3.md)
    * [Week 2 Detail - Sep 8](weekly_detail/dm1123_weekly_detail_wk2_sep8.md)
    * [Week 3 Detail - Sep 15](weekly_detail/wk3_detail.md)
+   * [Week 4 Detail - Sep 22](weekly_detail/wk4_detail.md)
 * [Creator Show and Tells](projects/creator_show_and_tells.md)
 * [Logo Show and Tells](projects/logo_show_and_tells.md)
 * [Groups](projects/dm1123_vfs_groups.md)
