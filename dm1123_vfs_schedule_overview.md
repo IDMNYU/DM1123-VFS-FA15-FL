@@ -25,11 +25,11 @@
     <tr>
         <td>3</td>
         <td valign="top"><a href="weekly_detail/wk3_detail.md">Sep 15<br><strong>Components: Image</strong></a><br><br><i>Last day to drop Fall 2015 classes and not receive a grade of "W"</i></td>
-        <td valign="top"><a href="weekly_detail/wk3_detail.md">Sept 17<br><strong>Components: Heirarchy</strong></a></td>
+        <td valign="top"><a href="weekly_detail/wk3_detail.md">Sept 17<br><strong>Components: Hierarchy</strong></a></td>
     </tr>
     <tr>
         <td>4</td>
-        <td valign="top">Sep 22<br><strong>Screening: Type</strong></td>
+        <td valign="top">Sep 22<br><strong>Hierarchy Crit</strong></td>
         <td valign="top">Sep 24<br><strong>Components: Iconography & Color</strong></td>
     </tr>
     <tr>
