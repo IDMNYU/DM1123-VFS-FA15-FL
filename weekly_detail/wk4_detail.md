@@ -40,7 +40,7 @@
     </li>
     <li>Iconography Concepts:
       <ul>
-        <li>Wordless communication</li>
+        <li>Wordless communication / Internationalization</li>
         <li>Uses of iconography</li>
         <li>Fill vs. outline</li>
         <li>Icon libraries</li>
@@ -55,7 +55,7 @@
       </ul>
     </li>
     
-    <li><a href="">Studio Exercise: Event Posters Cont'd</a></li>
+    <li><a href="#">Studio Exercise: Event Posters Cont'd</a></li>
   </ul>
 
 </td>
@@ -82,7 +82,7 @@
   <td valign="top">
     <ul>
    
-      <li><a href="../projects/studio_event_posters.md">Studio Exercise: Event Posters Cont'd</a> as homework</li>
+      <li><a href="#">Studio Exercise: Event Posters Cont'd</a> as homework</li>
     </ul>
   </td>
 </tr>
