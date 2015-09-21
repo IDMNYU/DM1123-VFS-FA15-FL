@@ -27,7 +27,7 @@
         </ul>
     </li>
     <li>Critique: Event Posters</li>
-    <li>Assignment: <a href="../projects/studio_event_posters.md">Logo Show & Tells</a></li>
+    <li>Assignment: <a href="../projects/logo_show_and_tells.md">Logo Show & Tells</a></li>
   </ul>
 </td>
 <td valign="top">
