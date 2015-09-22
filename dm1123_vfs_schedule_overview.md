@@ -35,7 +35,7 @@
     <tr>
         <td>5</td>
         <td>Sep 29<br><strong>LOGO Show & Tells</strong></td>
-        <td>Oct 01<br><strong>LOGO assigned</strong></td>
+        <td>Oct 01<br><strong>LOGO lecture and assignment</strong></td>
     </tr>
     <tr>
         <td>6</td>
