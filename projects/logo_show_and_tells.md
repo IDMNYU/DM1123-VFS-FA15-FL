@@ -5,7 +5,7 @@
 
 #### LOGO SHOW & TELLS
 
-* Pair up w/ 1 classmate 
+* Pair up into groups of 2 (and 1 group of 3) 
 * Select an established brand that has had at least 3 logo iterations (ideally more) over the years. Think outside the box. 
 * Post your selection on Basecamp to the LOGO SHOW & TELLS thread as a comment. 
   * One brand per team. Teams can not do the same brand. First team who posts their choice on the class website gets the brand.
