@@ -35,11 +35,11 @@
     <tr>
         <td>5</td>
         <td>Sep 29<br><strong>LOGO Show & Tells</strong></td>
-        <td>Oct 01<br><strong>LOGO 1st Draft (Group A)</strong></td>
+        <td>Oct 01<br><strong>LOGO assigned</strong></td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Oct 06<br><strong>LOGO 1st Draft (Group B)</strong></td>
+        <td>Oct 06<br><strong>LOGO 1st Draft (Group A & B)</strong></td>
         <td>Oct 08<br><strong><i>NO CLASS</i></strong> (Professor is out of town; Dec. 10 is make up date)</i></td>
     </tr>
     <tr>
