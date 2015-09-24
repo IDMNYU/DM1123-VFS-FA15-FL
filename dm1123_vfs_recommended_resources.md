@@ -93,12 +93,12 @@
 
 
 * **Color**
-  * [Kuler] (https://kuler.adobe.com/explore)
+  * [Adobe Color](https://color.adobe.com/)
   * [ColorHexa](http://www.colorhexa.com)
   * [ColorZilla](http://www.colorzilla.com)
   * [ColorZilla’s Gradient Editor](http://www.colorzilla.com/gradient-editor)
-  * [0to255] (http://0to255.com)
-  * [Color Meaning] (http://color-wheel-pro.com/color-meaning.html)
+  * [0to255](http://0to255.com)
+  * [Color Meaning](http://color-wheel-pro.com/color-meaning.html)
 
 
 * **RGB vs. CMYK**
