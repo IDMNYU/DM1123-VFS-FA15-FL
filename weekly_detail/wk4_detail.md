@@ -40,7 +40,7 @@
     </li>
     <li>Iconography Concepts:
       <ul>
-        <li>Wordless communication / Internationalization</li>
+        <li>Non-linguistic communication / Internationalization</li>
         <li>Uses of iconography</li>
         <li>Fill vs. outline</li>
         <li>Icon libraries</li>
