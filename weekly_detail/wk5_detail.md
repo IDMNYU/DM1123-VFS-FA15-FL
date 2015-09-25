@@ -26,27 +26,20 @@
   </ul>
 </td>
 <td valign="top">
-  <strong>COMPONENTS: Iconography & Color</strong><br>
+  <strong>COMPONENTS: Logos</strong><br>
   <ul>
     <li>Show & Tell Due:
         <ul>
-            <li>Massimo Vignelli: Connor & Kimberly</li>
+            <li>Barbara Krueger: Val & Mateo</li>
         </ul>
     </li>
-    <li>Iconography Concepts:
+    <li>Logo/Branding Concepts:
       <ul>
-        <li>Non-linguistic communication / Internationalization</li>
-        <li>Uses of iconography</li>
-        <li>Fill vs. outline</li>
-        <li>Icon libraries</li>
-      </ul>
-    </li>
-    <li>Color Concepts:
-      <ul>
-        <li>Hue</li>
-        <li>Value</li>
-        <li>Primary, secondary, complementary</li>
-        <li>Palettes</li>
+        <li>Logo vs. brand</li>
+        <li>Mark vs. logotype</li>
+        <li>Brand attributes</li>
+        <li>Application studies</li>
+        <li>Brand guidelines</li>
       </ul>
     </li>
     
@@ -69,9 +62,7 @@
 <tr>
   <td>do</td>
   <td valign="top">
-    <ul>
-        <li>Revise event posters based on critique, and post final computer sketches to your Wordpress</li>
-    </ul>
+    
   
   </td>
   <td valign="top">
