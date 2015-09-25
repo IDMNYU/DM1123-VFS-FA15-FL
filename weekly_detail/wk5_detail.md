@@ -22,7 +22,7 @@
   
   <ul>
     <li><strong>LOGO Show & Tells</strong></li>
-    <li>Color Event posters due (post to Wordpress)</li>
+    <li>Color event posters due (post to Wordpress)</li>
   </ul>
 </td>
 <td valign="top">
