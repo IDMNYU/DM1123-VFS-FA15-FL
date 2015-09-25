@@ -7,10 +7,11 @@
    * [Week 2 Detail - Sep 8](weekly_detail/dm1123_weekly_detail_wk2_sep8.md)
    * [Week 3 Detail - Sep 15](weekly_detail/wk3_detail.md)
    * [Week 4 Detail - Sep 22](weekly_detail/wk4_detail.md)
+   * [Week 5 Detail - Sep 29](weekly_detail/wk5_detail.md)
 * [Creator Show and Tells](projects/creator_show_and_tells.md)
 * [Logo Show and Tells](projects/logo_show_and_tells.md)
 * [Groups](projects/dm1123_vfs_groups.md)
-* Project: Logo
+* [Project: Logo](projects/project_logo.md)
 * [Reading Responses](projects/dm1123_vfs_reading_responses.md)
 * [Exercise: Typefaces](class_exercises/exercise_typefaces.md)
 * [Exercise: Type Compositions](projects/studio_composition.md)
