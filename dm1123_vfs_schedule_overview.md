@@ -34,8 +34,8 @@
     </tr>
     <tr>
         <td>5</td>
-        <td>Sep 29<br><strong>LOGO Show & Tells</strong></td>
-        <td>Oct 01<br><strong>Project: LOGO</strong></td>
+        <td><a href="weekly_detail/wk5_detail.md">Sep 29<br><strong>LOGO Show & Tells</strong></a></td>
+        <td><a href="weekly_detail/wk5_detail.md">Oct 01<br><strong>Project: LOGO</strong></a></td>
     </tr>
     <tr>
         <td>6</td>
