@@ -11,23 +11,18 @@
 </tr>
 <tr>
   <td valign="top">5</td>
-  <td valign="top" width="48%"><strong>Sep 22</strong></td>
-  <td valign="top" width="48%"><strong>Sep 24</strong></td>
+  <td valign="top" width="48%"><strong>Sep 29</strong></td>
+  <td valign="top" width="48%"><strong>Oct 1</strong></td>
 </tr>
 
 <!-- class -->
 <tr>
 <td valign="top">class</td>
 <td valign="top">
-  <strong>Hierarchy Crit</strong><br>
+  
   <ul>
-    <li>Show & Tell Due:
-        <ul>
-            <li>Milton Glaser: Pooja & Katie</li>
-        </ul>
-    </li>
-    <li>Critique: Event Posters</li>
-    <li>Assignment: <a href="../projects/logo_show_and_tells.md">Logo Show & Tells</a></li>
+    <li><strong>LOGO Show & Tells</strong></li>
+    <li>Color Event posters due (post to Wordpress)</li>
   </ul>
 </td>
 <td valign="top">
