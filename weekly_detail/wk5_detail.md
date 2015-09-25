@@ -43,7 +43,7 @@
       </ul>
     </li>
     
-    <li><a href="../projects/studio_event_posters2.md">Studio Exercise: Event Posters Cont'd</a></li>
+    <li><a href="../projects/studio_event_posters2.md">Studio Project: Logo</a></li>
   </ul>
 
 </td>
@@ -68,7 +68,7 @@
   <td valign="top">
     <ul>
    
-      <li><a href="../projects/studio_event_posters2.md">Studio Exercise: Event Posters Cont'd</a> as homework</li>
+      <li><a href="../projects/studio_event_posters2.md">Studio Project: Logo</a> as homework</li>
     </ul>
   </td>
 </tr>
