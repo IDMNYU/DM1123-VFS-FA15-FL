@@ -52,7 +52,8 @@
 <!-- reading -->
 <tr>
   <td>read</td>
-  <td valign="top">Type on Screen: Chapter 5 / Icons and Logo Types 
+  <td valign="top"><strong>Type on Screen</strong>
+  <ul><li>Chapter 5 – Icons and Logotypes</li></ul>
   
   </td>
   <td valign="top">Catch up on reading if behind.</td>
