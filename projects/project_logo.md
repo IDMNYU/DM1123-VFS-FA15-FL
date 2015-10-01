@@ -10,10 +10,11 @@
 * Throughout the semester, we’ll be investigating ways to visually communicate this brand, through creating an identity system which will consist of a logo, an interface, and a physical application.
 
 ##LOGO 1st Draft  
-* Post to your wordpress 
+* Post to your wordpress
 * Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of your brand
+* Choose 3–5 brand attribute words that describe your brand
 * **At least 10 different versions of logo** iterations of your selected brand **ALL in grayscale (this includes black &amp; white)**
-* One logo per 8 1/2 x 11 (letter) dimensions for a total of at least 20 images
+* One logo per 8 1/2 x 11 (letter) dimensions, printed out for in-class critique
   * A big version vs. a tiny version (a little bit bigger than postage size) in the corner
   * at least 3 should be digital
   * at least 3 should be haptic (non-digital) 
