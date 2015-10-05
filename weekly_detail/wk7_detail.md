@@ -26,7 +26,7 @@
   <ul>
     <li>Show & Tell Due:
         <ul>
-            <li>Peter Saville: Owen & Justin</li>
+            <li>Chip Kidd: Daniel</li>
         </ul>
     </li>
   </ul>
