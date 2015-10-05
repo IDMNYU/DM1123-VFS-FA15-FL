@@ -7,10 +7,28 @@
 ## GROUPS
 
 **Group A**
-
+* Calvin
+* Isabel
+* Orlando
+* Justin
+* Daniel
+* Katie
+* Pooja
+* Jack
+* Jonatan
+* Yihan
 
 
 **Group B**
+* Kimberly
+* Ryan
+* Michelle
+* Owen
+* Mateo
+* Connor
+* Val
+* Bella
+* Shu
 
 
 
