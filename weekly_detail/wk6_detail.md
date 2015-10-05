@@ -11,15 +11,15 @@
 </tr>
 <tr>
   <td valign="top">6</td>
-  <td valign="top" width="48%"><strong>Sep 29</strong></td>
-  <td valign="top" width="48%"><strong>Oct 1</strong></td>
+  <td valign="top" width="48%"><strong>Oct 6</strong></td>
+  <td valign="top" width="48%"><strong>Oct 8</strong></td>
 </tr>
 
 <!-- class -->
 <tr>
 <td valign="top">class</td>
 <td valign="top">
-  <strong>Logo Project: Crit</strong>
+  <strong>LOGO 1st Draft</strong><br>
     <li>Show & Tell Due:
         <ul>
             <li>Barbara Krueger: Val & Mateo</li>
@@ -29,7 +29,7 @@
   </ul>
 </td>
 <td valign="top">
-  <strong>COMPONENTS: Logos</strong><br>
+  <strong>NO CLASS</strong><br>
   <ul>
     
     <li>Logo/Branding Concepts:
