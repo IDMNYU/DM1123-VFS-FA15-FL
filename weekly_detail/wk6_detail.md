@@ -45,11 +45,13 @@
 <!-- do -->
 <tr>
   <td>do</td>
-  <td valign="top" colspan="2" >
+  <td valign="top" >
     <li><a href="../projects/project_logo.md">Project: Logo, 2nd Draft</a> as homework</li>
   
   </td>
- 
+  <td valign="top">
+    
+  </td>
 </tr>
 </table>
 
