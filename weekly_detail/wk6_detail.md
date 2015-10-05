@@ -19,20 +19,19 @@
 <tr>
 <td valign="top">class</td>
 <td valign="top">
-  
-  <ul>
-    <li><strong>LOGO Show & Tells</strong></li>
+  <strong>Logo Project: Crit</strong>
+    <li>Show & Tell Due:
+        <ul>
+            <li>Barbara Krueger: Val & Mateo</li>
+        </ul>
+    </li>
     <li>Color event posters due (post to Wordpress)</li>
   </ul>
 </td>
 <td valign="top">
   <strong>COMPONENTS: Logos</strong><br>
   <ul>
-    <li>Show & Tell Due:
-        <ul>
-            <li>Barbara Krueger: Val & Mateo</li>
-        </ul>
-    </li>
+    
     <li>Logo/Branding Concepts:
       <ul>
         <li>Logo vs. brand</li>
