@@ -22,28 +22,13 @@
   <strong>LOGO 1st Draft</strong><br>
     <li>Show & Tell Due:
         <ul>
-            <li>Barbara Krueger: Val & Mateo</li>
+            <li>Peter Saville: Owen & Justin</li>
         </ul>
     </li>
-    <li>Color event posters due (post to Wordpress)</li>
   </ul>
 </td>
 <td valign="top">
   <strong>NO CLASS</strong><br>
-  <ul>
-    
-    <li>Logo/Branding Concepts:
-      <ul>
-        <li>Logo vs. brand</li>
-        <li>Mark vs. logotype</li>
-        <li>Brand attributes</li>
-        <li>Application studies</li>
-        <li>Brand guidelines</li>
-      </ul>
-    </li>
-    
-    <li><a href="../projects/project_logo.md">Project: Logo</a></li>
-  </ul>
 
 </td>
 </tr>
@@ -51,8 +36,7 @@
 <!-- reading -->
 <tr>
   <td>read</td>
-  <td valign="top"><strong>Type on Screen</strong>
-  <ul><li>Chapter 5: Icons and Logotypes</li></ul>
+  <td valign="top">Catch up on reading if behind.</ul>
   
   </td>
   <td valign="top">Catch up on reading if behind.</td>
@@ -62,7 +46,7 @@
 <tr>
   <td>do</td>
   <td valign="top">
-    
+    <li><a href="../projects/project_logo.md">Project: Logo</a> as homework</li>
   
   </td>
   <td valign="top">
