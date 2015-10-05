@@ -19,7 +19,7 @@
 <tr>
 <td valign="top">class</td>
 <td valign="top">
-  <strong>LOGO 1st Draft</strong><br>
+  <strong>LOGO 1st Draft Crit</strong><br>
     <li>Show & Tell Due:
         <ul>
             <li>Peter Saville: Owen & Justin</li>
