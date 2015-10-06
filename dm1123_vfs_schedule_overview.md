@@ -39,13 +39,13 @@
     </tr>
     <tr>
         <td>6</td>
-        <td>Oct 06<br><strong>LOGO 1st Draft (Group A & B)</strong></td>
+        <td><a href="weekly_detail/wk6_detail.md">Oct 06<br><strong>LOGO 1st Draft (Group A & B)</strong></a></td>
         <td>Oct 08<br><strong><i>NO CLASS</i></strong> (Professor is out of town; Dec. 10 is make up date)</i></td>
     </tr>
     <tr>
         <td>7</td>
         <td>Oct 13<br><strong>NO CLASS</strong> <i>(Legislative Day which means Monday classes will meet instead of Tuesday classes.)</i></td>
-        <td>Oct 15<br><strong>LOGO 2nd Draft (Groups A)</strong></td>
+        <td><a href="weekly_detail/wk7_detail.md">Oct 15<br><strong>LOGO 2nd Draft (Groups A)</strong></a></td>
     </tr>
     <tr>
         <td>8</td>
