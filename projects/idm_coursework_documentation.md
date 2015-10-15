@@ -21,7 +21,7 @@ Orlando Diaz | http://sites.bxmc.poly.edu/~orlandodiaz/VFS/
 Michelle Grossman | http://sites.bxmc.poly.edu/~michellegrossman/afs/
 Justin Harrison | http://sites.bxmc.poly.edu/~justinharrison/VFS/
 Owen Hipwell | http://sites.bxmc.poly.edu/~owenhipwell/VFS/
-Daniel Jiang | sites.bxmc.poly.edu/~danieljiang/vfs
+Daniel Jiang | http://sites.bxmc.poly.edu/~danieljiang/vfs
 Mateo Julia Wise | http://sites.bxmc.poly.edu/~mateowise/vfs/
 Katie Lau | http://sites.bxmc.poly.edu/~katielau/VFS/
 Connor Lin | http://sites.bxmc.poly.edu/~connorlin/VFS/
