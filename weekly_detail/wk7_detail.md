@@ -29,6 +29,7 @@
             <li>Chip Kidd: Daniel</li>
         </ul>
     </li>
+    <li>Demo: Illustrator</li>
   </ul>
 </td>
 
