@@ -49,7 +49,7 @@
   <td valign="top">
   </td>
   <td valign="top" >
-    <li><a href="../projects/project_logo.md">Project: Logo</a> final version due Tuesday</li>
+    <li><a href="../projects/project_logo.md">Project: Logo</a> final version due Tuesday with Self Assessment</li>
   
   </td>
 </tr>
