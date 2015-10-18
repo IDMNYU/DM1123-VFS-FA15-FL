@@ -190,3 +190,11 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
   * The following are not recommended because of cost, but I wanted you to know about them:
     * [proto.io](http://proto.io)
     * [Keynotopia](http://keynotopia.com) 
+
+### RECOMMENDED FILMS
+* [Helvetica](http://www.hustwit.com/category/helvetica/)
+* [Objectified](http://www.hustwit.com/category/objectified/)
+* [Hillman Curtis Artist Series](http://hillmancurtis.com/artist-series)
+* [Why Man Creates]()
+* [Powers of 10](https://www.youtube.com/watch?v=0fKBhvDjuy0)
+* Eames: The Architect and the Painter - PBS / Netflix
