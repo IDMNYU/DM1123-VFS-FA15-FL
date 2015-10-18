@@ -49,12 +49,12 @@
     </tr>
     <tr>
         <td>8</td>
-        <td>Oct 20<br><strong>LOGO 2nd Draft (Groups B)</strong></td>
-        <td>Oct 22<br><strong>Screenings</strong></td>
+        <td><a href="weekly_detail/wk8_detail.md">Oct 20<br><strong>LOGO 2nd Draft (Groups B)</strong></a></td>
+        <td><a href="weekly_detail/wk8_detail.md">Oct 22<br><strong>Screenings</strong></a></td>
     </tr>
     <tr>
         <td>9</td>
-        <td valign="top">Oct 27<br><strong>MIDTERM: LOGO FINAL (Groups A & B)</strong><br>Logo Rubric<br>Logo Self Reflection</td>
+        <td valign="top">Oct 27<br><strong>MIDTERM: LOGO FINAL (Entire Class)</strong><br>Logo Self Assessment</td>
         <td valign="top">Oct 29<br><strong>PHYSICAL APP 1st Draft (Groups A & B)</strong></td>
     </tr>
     <tr>
