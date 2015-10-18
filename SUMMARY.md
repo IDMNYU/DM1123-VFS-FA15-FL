@@ -15,6 +15,7 @@
 * [Logo Show and Tells](projects/logo_show_and_tells.md)
 * [Groups](projects/dm1123_vfs_groups.md)
 * [Project: Logo](projects/project_logo.md)
+* [Midterm Self Assessment](projects/project_logo_assessment.md)
 * [Reading Responses](projects/dm1123_vfs_reading_responses.md)
 * [Exercise: Typefaces](class_exercises/exercise_typefaces.md)
 * [Exercise: Type Compositions](projects/studio_composition.md)
