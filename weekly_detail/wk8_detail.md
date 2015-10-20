@@ -30,6 +30,13 @@
 </td>
 <td valign="top">
   <strong>Screening</strong><br>
+  <ul>
+    <li>Show & Tell Due:
+        <ul>
+            <li>Paula Scher: Jack & Yihan</li>
+        </ul>
+    </li>
+  </ul>
 </td>
 
 </tr>
