@@ -26,7 +26,7 @@
             <li>David Carson: Bella & Isabel</li>
         </ul>
     </li>
-    <li>Demo: Illustrator artboards vs. documents</li>
+    <li>Demo: Illustrator artboards vs. documents, file management</li>
   </ul>
 </td>
 <td valign="top">
