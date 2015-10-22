@@ -37,6 +37,7 @@
             <li>Paula Scher: Jack & Yihan</li>
         </ul>
     </li>
+    <li>Final review of logos</li>
   </ul>
 </td>
 
