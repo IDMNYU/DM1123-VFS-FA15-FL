@@ -57,8 +57,11 @@
   <td valign="top">
   </td>
   <td valign="top" >
-    <li><a href="../projects/project_logo.md">Project: Logo</a> final version due Tuesday with <a href="../projects/project_logo_assessment.md">Self Assessment</a></li>
-  
+  <strong>Midterm Due Tuesday:</strong>
+    <li><a href="../projects/project_logo.md">Project: Logo</a> final version, color printed on 8.5x11" paper</li>
+    <li><a href="../projects/project_logo_assessment.md">Logo Rubric</a> (Printed or emailed to me)</li>
+    <li><a href="../projects/project_logo_assessment.md">Midterm Self Assessment</a> (Printed or emailed to me)
+    </li>
   </td>
 </tr>
 </table>
