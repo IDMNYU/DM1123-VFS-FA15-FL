@@ -23,39 +23,40 @@
   <ul>
     <li>Final presentation and critique of logos</li>
     <li>Rubric and self assessment also due</li>
+    <li><a href="../projects/project_pa.md">Project: Physical Application</a> assigned</li>
   </ul>
 </td>
 <td valign="top">
-  <strong>Project: Physical Application</strong><br>
+  <strong><a href="../projects/project_pa.md">PHYSICAL APP 1st Draft (Groups A & B)</a></strong><br>
   <ul>
     <li>Show & Tell Due:
         <ul>
             <li>Stefan Sagmeister: Shu & Michelle</li>
         </ul>
     </li>
-    <li>Final review of logos</li>
+    
   </ul>
 </td>
 
 </tr>
 
-<!-- reading -->
+<!-- reading 
 <tr>
   <td>read</td>
   <td valign="top">Catch up on reading if behind.</ul>
   
   </td>
   <td valign="top">Catch up on reading if behind.</td>
-</tr>
+</tr>-->
 
 <!-- do -->
 <tr>
   <td>do</td>
   <td valign="top">
-    <ul><li>Think about which applied state you want to use for the physical application project</li></ul>
+    <li>Continue <a href="../projects/project_pa.md">Project: Physical Application</a> first draft</li>
   </td>
   <td valign="top" >
-    <li><a href="../projects/project_logo.md">Project: Logo</a> final version, color printed on 8.5x11" paper</li>
+    <li><a href="../projects/project_pa.md">Project: Physical Application</a> second draft</li>
     
   </td>
 </tr>
