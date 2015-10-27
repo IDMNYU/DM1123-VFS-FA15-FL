@@ -4,7 +4,7 @@
 
 
 # PROJECT: PHYSICAL APPLICATION (PA)
-Your final logo in color in a physical, applied state (i.e. poster, packaging, signage, apparel, business cards, stickers, etc.). Your choice for your logo’s applied state is up to you. You decide. There are literally hundreds of possible applied states. 
+Your final logo in color in a physical, applied state (i.e. poster, packaging, signage, apparel, business cards, stickers, etc.). Your choice for your logo's applied state is up to you. You decide. There are literally hundreds of possible applied states. 
 
 #### PA 1st Draft    
 Post on your class website in grayscale (includes black and white)
