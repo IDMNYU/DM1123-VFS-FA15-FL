@@ -52,7 +52,7 @@
 <tr>
   <td>do</td>
   <td valign="top">
-    <ul><li></li></ul>
+    <ul><li>Think about which applied state you want to use for the physical application project</li></ul>
   </td>
   <td valign="top" >
     <li><a href="../projects/project_logo.md">Project: Logo</a> final version, color printed on 8.5x11" paper</li>
