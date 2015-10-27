@@ -54,8 +54,8 @@
     </tr>
     <tr>
         <td>9</td>
-        <td valign="top">Oct 27<br><strong>MIDTERM: LOGO FINAL (Entire Class)</strong><br>Logo Rubric<br>Logo Self Assessment</td>
-        <td valign="top">Oct 29<br><strong>PHYSICAL APP 1st Draft (Groups A & B)</strong></td>
+        <td valign="top"><a href="weekly_detail/wk9_detail.md">Oct 27<br><strong>MIDTERM: LOGO FINAL (Entire Class)</strong><br>Logo Rubric<br>Logo Self Assessment</a></td>
+        <td valign="top"><a href="weekly_detail/wk9_detail.md">Oct 29<br><strong>PHYSICAL APP 1st Draft (Groups A & B)</strong></a></td>
     </tr>
     <tr>
         <td>10</td>
