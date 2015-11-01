@@ -26,6 +26,9 @@
 </td>
 <td valign="top">
   <strong>PHYSICAL APP 2nd Draft (Group B)</strong><br>
+  <ul>
+    <li>Interactive design lecture</li>
+  </ul>
 </td>
 
 </tr>
