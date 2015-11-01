@@ -19,6 +19,7 @@
 * [Project: Logo](projects/project_logo.md)
 * [Midterm Self Assessment](projects/project_logo_assessment.md)
 * [Project: Physical Application](projects/project_pa.md)
+* [Project: Interface](projects/project_interface.md)
 * [Reading Responses](projects/dm1123_vfs_reading_responses.md)
 * [Exercise: Typefaces](class_exercises/exercise_typefaces.md)
 * [Exercise: Type Compositions](projects/studio_composition.md)
