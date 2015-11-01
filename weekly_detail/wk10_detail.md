@@ -33,7 +33,7 @@
 <!-- reading -->
 <tr>
   <td>read</td>
-  <td valign="top">Catch up on reading if behind.</ul>
+  <td valign="top">
   
   </td>
   <td valign="top">Catch up on reading if behind.</td>
