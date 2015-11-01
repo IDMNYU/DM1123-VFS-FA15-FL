@@ -34,7 +34,8 @@
 <tr>
   <td>read</td>
   <td valign="top">
-  
+    <strong>Type on Screen</strong>
+  <ul><li>Chapter 4: Type and Interface</li></ul>
   </td>
   <td valign="top">Catch up on reading if behind.</td>
 </tr>
