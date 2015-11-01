@@ -21,7 +21,7 @@
 <td valign="top">
   <strong>PHYSICAL APP 2nd Draft (Group A)</strong><br>
   <ul>
-    <li>Demo: Photoshop Smart Objects</li>
+    <li>Demo: Photoshop Compositing</li>
   </ul>
 </td>
 <td valign="top">
@@ -43,13 +43,10 @@
 <tr>
   <td>do</td>
   <td valign="top">
+    <li><a href="../projects/project_pa.md">Project: Physical Application</a></li>
   </td>
   <td valign="top" >
-  <strong>Midterm Due Tuesday:</strong>
-    <li><a href="../projects/project_logo.md">Project: Logo</a> final version, color printed on 8.5x11" paper</li>
-    <li><a href="https://github.com/IDMNYU/DM1123-VFS-FA15-FL/blob/master/assets/vfs_logo_rubric.pdf?raw=true">Logo Rubric</a> (Printed or emailed to me)</li>
-    <li><a href="../projects/project_logo_assessment.md">Midterm Self Assessment</a> (Printed or emailed to me)
-    </li>
+    <li><a href="../projects/project_pa.md">Project: Physical Application</a></li>
   </td>
 </tr>
 </table>
