@@ -64,8 +64,8 @@
     </tr>
     <tr>
         <td>11</td>
-        <td>Nov 10<br><strong>Guest Speaker: <br>INTERFACE Wireframes 1st Draft</strong></td>
-        <td>Nov 12<br><strong>INTERFACE Wireframes 1st Draft</strong></strong></td>
+        <td><a href="weekly_detail/wk11_detail.md">Nov 10<br><strong>Guest Speaker: <br>INTERFACE Wireframes 1st Draft</strong></a></td>
+        <td><a href="weekly_detail/wk11_detail.md">Nov 12<br><strong>INTERFACE Wireframes 1st Draft</strong></strong></a></td>
     </tr>
     <tr>
         <td>12</td>
