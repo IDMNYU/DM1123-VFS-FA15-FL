@@ -97,6 +97,6 @@
 Dec 16
 * NYU Reading Day (so neither classes nor exams will meet.)
 
-Dec 15-17<br>
+Dec 15-18<br>
 * **INDIVIDUAL ONE on ONES (To Be Scheduled)**
 * **PDF or Book, Dropbox Link, Letter to Next Cohort & Final Assessment**
