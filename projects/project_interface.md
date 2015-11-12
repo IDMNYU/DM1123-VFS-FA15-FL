@@ -18,6 +18,7 @@ Post on wordpress in grayscale (includes black and white)
 Post on wordpress in color
 
 * Create 3 different versions of your interface as high fidelity wireframes in color
+* They should be at the correct screen resolution of your device
 
 #### INTERFACE Final: High-Fidelity Prototype 
 Post on wordpress in color
