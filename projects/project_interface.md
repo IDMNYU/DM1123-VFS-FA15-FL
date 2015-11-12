@@ -9,7 +9,7 @@ Using a combination of Illustrator and/or Photoshop, apply your brand to a digit
 #### INTERFACE Wireframe    
 Post on wordpress in grayscale (includes black and white)
 
-* Create a wireframe of your interface within letter dimensions (8 1/2 x 11). 
+* Create a wireframe of your interface within letter dimensions (8 1/2 x 11) or at the resolution of your device. 
   * If you are doing a website, you also need to include a sitemap in grayscale (includes black and white) 
 * Every, single element needs to be accounted for including controls, text, images, videos, and supporting graphics. 
 * Do not use Lorem Ipsum for text. Use Real Text.
