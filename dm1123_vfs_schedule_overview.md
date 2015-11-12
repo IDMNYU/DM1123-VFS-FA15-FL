@@ -74,7 +74,7 @@
     </tr>
     <tr>
         <td>13</td>
-        <td>Nov 24<br><strong>INTERFACE Visual Design 2nd Draft</strong></td>
+        <td>Nov 24<br><strong>INTERFACE Visual Design 2nd Draft</strong><br>Begin Prototype</td>
         <td>Nov 26<br><strong><i>NO CLASS: Thanksgiving Holiday</i></strong></td>
     </tr>
     <tr>
@@ -89,7 +89,7 @@
     </tr>
     <tr>
         <td>16</td>
-        <td>Dec 15<br><strong>Last Day of Class<br>PDF or BOOK 2nd DRAFT</strong></td>
+        <td>Dec 15<br><strong><em>Last Day of Class</em><br>PDF or BOOK 2nd DRAFT</strong></td>
         <td></td>
     </tr>
 </table>
