@@ -70,26 +70,26 @@
     <tr>
         <td>12</td>
         <td>Nov 17<br><strong>INTERFACE Wireframes 2nd Draft</strong></td>
-        <td>Nov 19<br><strong>INTERFACE High-Fidelity Prototype 1st Draft</strong></td>
+        <td>Nov 19<br><strong>INTERFACE Visual Design 1st Draft</strong></td>
     </tr>
     <tr>
         <td>13</td>
-        <td>Nov 24<br><strong>INTERFACE Final: High-Fidelity Prototype</strong></td>
+        <td>Nov 24<br><strong>INTERFACE Visual Design 2nd Draft</strong></td>
         <td>Nov 26<br><strong><i>NO CLASS: Thanksgiving Holiday</i></strong></td>
     </tr>
     <tr>
         <td>14</td>
         <td>Dec 1<br><strong>PHYSICAL APP FINAL</strong></td>
-        <td>Dec 3<br><strong>PDF or BOOK 1st DRAFT</strong></td>
+        <td>Dec 3<br><strong>INTERFACE Final: High-Fidelity Prototype </strong></td>
     </tr>
     <tr>
         <td>15</td>
         <td>Dec 8<br><strong><i>SoE UG Reading Day</i></strong></td>
-        <td>Dec 10<br><strong><i>Make Up Class for Oct. 8</i><br>PDF or BOOK 2nd DRAFT</strong></td>
+        <td>Dec 10<br><strong><i>Make Up Class for Oct. 8</i><br>PDF or BOOK 1st DRAFT</strong></td>
     </tr>
     <tr>
         <td>16</td>
-        <td>Dec 15<br><strong>Last Day of Class</strong></td>
+        <td>Dec 15<br><strong>Last Day of Class<br>PDF or BOOK 2nd DRAFT</strong></td>
         <td></td>
     </tr>
 </table>
