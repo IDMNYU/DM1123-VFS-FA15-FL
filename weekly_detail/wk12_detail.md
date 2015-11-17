@@ -19,13 +19,11 @@
 <tr>
 <td valign="top">class</td>
 <td valign="top">
-  <strong>Guest Speakers:<br>Brankica Harvey and Ken Deegan from <a href="http://www.pentagram.com/">Pentagram</a></strong><br>
-  <ul>
-    <li><a href="../projects/project_interface.md">Project: Interface</a> assigned</li>
-  </ul>
+  <strong>INTERFACE Wireframes 2nd Draft</strong><br>
+  
 </td>
 <td valign="top">
-  <strong>Interface Wireframes 1st Draft</strong><br>
+  <strong>INTERFACE Visual Design 1st Draft</strong><br>
 </td>
 
 </tr>
@@ -41,10 +39,10 @@
 <tr>
   <td>do</td>
   <td valign="top">
-    <li><a href="../projects/project_interface.md">Interface Wireframes 1st Draft</a></li>
+    <li><a href="../projects/project_interface.md">Interface Visual Design 1st Draft</a></li>
   </td>
   <td valign="top" >
-    <li><a href="../projects/project_interface.md">Interface Wireframes 2nd Draft</a></li>
+    <li><a href="../projects/project_interface.md">Interface Visual Design 2nd Draft</a></li>
   </td>
 </tr>
 </table>
