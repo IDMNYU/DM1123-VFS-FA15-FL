@@ -69,8 +69,8 @@
     </tr>
     <tr>
         <td>12</td>
-        <td>Nov 17<br><strong>INTERFACE Wireframes 2nd Draft</strong></td>
-        <td>Nov 19<br><strong>INTERFACE Visual Design 1st Draft</strong></td>
+        <td><a href="weekly_detail/wk12_detail.md">Nov 17<br><strong>INTERFACE Wireframes 2nd Draft</strong></a></td>
+        <td><a href="weekly_detail/wk12_detail.md">Nov 19<br><strong>INTERFACE Visual Design 1st Draft</strong></a></td>
     </tr>
     <tr>
         <td>13</td>
