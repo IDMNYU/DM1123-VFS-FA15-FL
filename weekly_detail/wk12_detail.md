@@ -23,7 +23,12 @@
   
 </td>
 <td valign="top">
-  <strong>INTERFACE Visual Design 1st Draft</strong><br>
+    <strong>INTERFACE Wireframes 2nd Draft cont'd</strong><br>
+    <ul>
+        <li>Brief survey on diversity</li>
+        <li>INTERFACE Visual Design 1st Draft</li>
+    </ul>
+  <br>
 </td>
 
 </tr>
