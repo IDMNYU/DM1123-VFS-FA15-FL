@@ -46,7 +46,7 @@
     <li><a href="../projects/project_pa.md">Physical Application Final Due Tuesday</a></li>
   </td>
   <td valign="top" >
-    <li><a href="../projects/project_interface.md">Interface Visual Design 2nd Draft</a></li>
+    
   </td>
 </tr>
 </table>
