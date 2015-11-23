@@ -74,7 +74,7 @@
     </tr>
     <tr>
         <td>13</td>
-        <td>Nov 24<br><strong>INTERFACE Visual Design 2nd Draft</strong><br>Begin Prototype</td>
+        <td><a href="weekly_detail/wk13_detail.md">Nov 24<br><strong>INTERFACE Visual Design 2nd Draft</strong><br>Begin Prototype</a></td>
         <td>Nov 26<br><strong><i>NO CLASS: Thanksgiving Holiday</i></strong></td>
     </tr>
     <tr>
