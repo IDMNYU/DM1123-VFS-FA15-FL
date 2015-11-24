@@ -24,7 +24,7 @@ Post on wordpress in color
 Post on wordpress in color
 * Refine selection
 * Post a clickable prototype 
-  * Consult the readings and/or VFS <a href="dm1123_vfs_recommended_resources.md">resources</a> page for applications to use for prototypes.
+  * Consult the readings and/or VFS <a href="../dm1123_vfs_recommended_resources.md">resources</a> page for applications to use for prototypes.
 
 
 
