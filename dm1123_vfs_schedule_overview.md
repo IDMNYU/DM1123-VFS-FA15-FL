@@ -99,4 +99,4 @@ Dec 16
 
 Dec 15-18<br>
 * **INDIVIDUAL ONE on ONES (To Be Scheduled)**
-* **PDF or Book, Dropbox Link, Letter to Next Cohort & Final Assessment**
+* **End of Semester PDF & Final Assessment**
