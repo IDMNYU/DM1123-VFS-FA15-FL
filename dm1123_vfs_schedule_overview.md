@@ -80,12 +80,12 @@
     <tr>
         <td>14</td>
         <td>Dec 1<br><strong>PHYSICAL APP FINAL</strong></td>
-        <td>Dec 3<br><strong>INTERFACE Final: High-Fidelity Prototype </strong></td>
+        <td>Dec 3<br><strong>INTERFACE: High-Fidelity Prototype </strong></td>
     </tr>
     <tr>
         <td>15</td>
         <td>Dec 8<br><strong><i>SoE UG Reading Day</i></strong></td>
-        <td>Dec 10<br><strong><i>Make Up Class for Oct. 8</i><br>PDF or BOOK 1st DRAFT</strong></td>
+        <td>Dec 10<br><strong><i>Make Up Class for Oct. 8</i><br>INTERFACE Final: High-Fidelity Prototype<br>PDF or BOOK 1st DRAFT</strong></td>
     </tr>
     <tr>
         <td>16</td>
