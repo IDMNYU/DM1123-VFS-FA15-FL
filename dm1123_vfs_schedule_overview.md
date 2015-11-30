@@ -79,8 +79,8 @@
     </tr>
     <tr>
         <td>14</td>
-        <td>Dec 1<br><strong>PHYSICAL APP FINAL</strong></td>
-        <td>Dec 3<br><strong>INTERFACE: High-Fidelity Prototype </strong></td>
+        <td><a href="weekly_detail/wk14_detail.md">Dec 1<br><strong>PHYSICAL APP FINAL</strong></a></td>
+        <td><a href="weekly_detail/wk14_detail.md">Dec 3<br><strong>INTERFACE: High-Fidelity Prototype </strong></a></td>
     </tr>
     <tr>
         <td>15</td>
