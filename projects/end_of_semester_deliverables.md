@@ -5,7 +5,7 @@
 # END OF SEMESTER DELIVERABLES
 
 ## END OF SEMESTER PDF
-This should be compiled using Adobe InDesign. The visual foundation principles we have been learning all semester should be present.    
+This should be compiled using Adobe InDesign and emailed to me no later than <strong>Dec 17th.</strong><br>The visual foundation principles we have been learning all semester should be present.    
 
 PDF Cover:
 * Your first and last name
@@ -17,17 +17,16 @@ Before each assignment, a header that labels each project (See below.)
 * 01 Logo–1st draft
 * 02 Logo–2nd draft
 * 03 Logo–Final
-* 04 Interface-Wireframes
-* 05 Interface-High Fidelity Prototypes
-* 06 Interface-Final
-* 07 Physical Application–1st draft
-* 08 Physical Application–2nd draft
-* 09 Physical Application–Final
-* 10 End of Semester PDF - 1st draft
-* 11 End of Semester PDF- 2nd draft
-* 12 End of Semester PDF - Final
+* 04 Physical Application–1st draft
+* 05 Physical Application–2nd draft
+* 06 Physical Application–Final
+* 07 Interface–Wireframes
+* 08 Interface–Visual Design 1st draft
+* 09 Interface–Final
 * Midterm Self Assessment
 * Final Self Assessment (see requirements below)
+
+For the physical application final, please photograph the piece you created.
 
 Combine multiple pdfs using Adobe Acrobat Pro:
 FILE > CREATE > COMBINE INTO A SINGLE PDF
@@ -36,7 +35,6 @@ or using Preview (Drag and Drop with thumbnail panel)
 
 ## FINAL SELF ASSESSMENT
 
-*As a pdf, emailed to me.*
 
 Of Self
 
