@@ -30,5 +30,6 @@
 * [Exercise: Event Posters](projects/studio_event_posters.md)
 * [Exercise: Event Posters w/ Color](projects/studio_event_posters2.md)
 * [IDM Coursework Documentation](projects/idm_coursework_documentation.md)
+* [End of Semester Deliverables](projects/end_of_semester_deliverables.md)
 * [Recommended Resources](dm1123_vfs_recommended_resources.md)
 
