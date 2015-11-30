@@ -80,16 +80,16 @@
     <tr>
         <td>14</td>
         <td><a href="weekly_detail/wk14_detail.md">Dec 1<br><strong>PHYSICAL APP FINAL</strong></a></td>
-        <td><a href="weekly_detail/wk14_detail.md">Dec 3<br><strong>INTERFACE: High-Fidelity Prototype </strong></a></td>
+        <td><a href="weekly_detail/wk14_detail.md">Dec 3<br><strong>INTERFACE: High-Fidelity Prototype 1st Draft </strong></a></td>
     </tr>
     <tr>
         <td>15</td>
-        <td>Dec 8<br><strong><i>SoE UG Reading Day</i></strong></td>
-        <td>Dec 10<br><strong><i>Make Up Class for Oct. 8</i><br>INTERFACE Final: High-Fidelity Prototype</strong></td>
+        <td>Dec 8<br><strong>INTERFACE Final: High-Fidelity Prototype</strong></td>
+        <td>Dec 10<br><strong><i>Make Up Class for Oct. 8</i><br>End of Semester PDF 1st Draft</strong></td>
     </tr>
     <tr>
         <td>16</td>
-        <td>Dec 15<br><strong><em>Last Day of Class</em><br>End of Semester PDF 1st DRAFT</strong></td>
+        <td>Dec 15<br><strong><em>Last Day of Class</em><br>End of Semester PDF 2nd Draft</strong></td>
         <td></td>
     </tr>
 </table>
