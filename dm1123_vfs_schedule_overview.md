@@ -85,11 +85,11 @@
     <tr>
         <td>15</td>
         <td>Dec 8<br><strong><i>SoE UG Reading Day</i></strong></td>
-        <td>Dec 10<br><strong><i>Make Up Class for Oct. 8</i><br>INTERFACE Final: High-Fidelity Prototype<br>PDF or BOOK 1st DRAFT</strong></td>
+        <td>Dec 10<br><strong><i>Make Up Class for Oct. 8</i><br>INTERFACE Final: High-Fidelity Prototype</strong></td>
     </tr>
     <tr>
         <td>16</td>
-        <td>Dec 15<br><strong><em>Last Day of Class</em><br>PDF or BOOK 2nd DRAFT</strong></td>
+        <td>Dec 15<br><strong><em>Last Day of Class</em><br>End of Semester PDF 1st DRAFT</strong></td>
         <td></td>
     </tr>
 </table>
