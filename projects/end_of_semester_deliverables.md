@@ -27,7 +27,7 @@ Before each assignment, a header that labels each project (See below.)
 * 11 End of Semester PDF- 2nd draft
 * 12 End of Semester PDF - Final
 * Midterm Self Assessment
-* Final Self Assessment (see requirements on the next page)
+* Final Self Assessment (see requirements below)
 
 Combine multiple pdfs using Adobe Acrobat Pro:
 FILE > CREATE > COMBINE INTO A SINGLE PDF
