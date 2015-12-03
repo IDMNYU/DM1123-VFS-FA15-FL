@@ -27,7 +27,10 @@
 <td valign="top">
     <strong>INTERFACE: High-Fidelity Prototype
 </strong><br>
-    
+    <ul>
+    <li>Demo: InDesign</li>
+    <li>Schedule one on ones</li>
+    </ul>
 </td>
 
 </tr>
