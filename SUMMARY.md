@@ -18,6 +18,7 @@
    * [Week 13 Detail - Nov 24](weekly_detail/wk13_detail.md)
    * [Week 14 Detail - Dec 1](weekly_detail/wk14_detail.md)
    * [Week 15 Detail - Dec 8](weekly_detail/wk15_detail.md)
+   * [Week 16 Detail - Dec 15](weekly_detail/wk16_detail.md)
 * [Creator Show and Tells](projects/creator_show_and_tells.md)
 * [Logo Show and Tells](projects/logo_show_and_tells.md)
 * [Groups](projects/dm1123_vfs_groups.md)
