@@ -84,8 +84,8 @@
     </tr>
     <tr>
         <td>15</td>
-        <td>Dec 8<br><strong>INTERFACE Final: High-Fidelity Prototype</strong></td>
-        <td>Dec 10<br><strong><i>Make Up Class for Oct. 8</i><br>End of Semester PDF 1st Draft</strong></td>
+        <td><a href="weekly_detail/wk15_detail.md">Dec 8<br><strong>INTERFACE Final: High-Fidelity Prototype</strong></a></td>
+        <td><a href="weekly_detail/wk15_detail.md">Dec 10<br><strong><i>Make Up Class for Oct. 8</i><br>End of Semester PDF 1st Draft</strong></a></td>
     </tr>
     <tr>
         <td>16</td>
