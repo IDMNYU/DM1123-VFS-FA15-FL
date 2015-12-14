@@ -110,11 +110,10 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * 10% final interface 
 * 10% final physical application
 * 10% end of semester portfolio PDF (or book for extra credit)
-* 10% end of semester dropbox folder
-* 5% IDM coursework documentation on sites.bxmc.poly.edu
+* 10% IDM coursework documentation on sites.bxmc.poly.edu
 * 5% reading responses
-* 2.5% logo show and tell
-* 2.5% creator show and tell
+* 5% logo show and tell
+* 5% creator show and tell
 * 2.5% midterm (final logo) self assessment and rubric
 * 2.5% Final self assessment and rubric
 
