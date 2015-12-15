@@ -19,8 +19,12 @@
 <tr>
 <td valign="top">class</td>
 <td valign="top">
-  <strong>Last Day of Class<br>
-End of Semester PDF 2nd Draft</strong><br>
+  <strong>Last Day of Class</strong><br>
+  <ul>
+    <li>Course evaluations, return to Krysta Battersby in LC130</li>
+    <li>Remaining final interface presentations</li>
+    <li>End of Semester PDF 2nd Draft</li>
+  </ul>
   
 </td>
 <td valign="top">
